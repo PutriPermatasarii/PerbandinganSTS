@@ -1,0 +1,2 @@
+# PerbandinganSTS
+Projek perbandingan STS
